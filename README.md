@@ -22,7 +22,7 @@ Centralizar e armazenar projetos de diferentes tipos, facilitando:
 └── ...
 ```
 
-Cada pasta contém:
+Cada pasta pode conter:
 
 * Código-fonte
 * Documentação própria
