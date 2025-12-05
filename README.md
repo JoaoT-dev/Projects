@@ -1,9 +1,9 @@
-# 📁 Repositório de Projetos
+# Repositório de Projetos
 
 Bem-vindo(a) ao **Repositório de Projetos**!
 Este espaço reúne diversos projetos organizados para estudo, referência, versionamento e desenvolvimento contínuo.
 
-## 🚀 Objetivo
+## Objetivo
 
 Centralizar e armazenar projetos de diferentes tipos, facilitando:
 
@@ -12,7 +12,7 @@ Centralizar e armazenar projetos de diferentes tipos, facilitando:
 * Colaboração
 * Evolução contínua dos projetos
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 /
