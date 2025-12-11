@@ -1,13 +1,13 @@
 # Repositório de Projetos
 
 Bem-vindo(a) ao **Repositório de Projetos**!
-Este espaço reúne diversos projetos organizados para estudo, referência, versionamento e desenvolvimento contínuo.
+Este espaço reúne diversos projetos organizados para estudo e referência.
 
 ## Objetivo
 
 Centralizar e armazenar projetos de diferentes tipos, facilitando:
 
-* Organização e manutenção
+* Organização
 * Acesso rápido ao código
 * Colaboração
 * Evolução contínua dos projetos
