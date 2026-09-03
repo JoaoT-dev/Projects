@@ -1,16 +1,16 @@
-# Repositório de Projetos
+# Repositório de Documentações
 
-Bem-vindo(a) ao **Repositório de Projetos**!
-Este espaço reúne diversos projetos organizados para estudo e referência.
+Bem-vindo(a) ao **Repositório de Documentações**!
+Este espaço foi criado para centralizar e organizar materiais de estudo, referência e documentação de projetos, permitindo um acesso rápido e estruturado às informações armazenadas.
 
 ## Objetivo
 
-Centralizar e armazenar projetos de diferentes tipos, facilitando:
+Armazenar e manter organizadas documentações relacionadas a projetos, estudos e experiências práticas, facilitando:
 
-* Organização
-* Acesso rápido ao código
-* Colaboração
-* Evolução contínua dos projetos
+* Organização das informações
+* Acesso rápido a materiais e referências
+* Consulta e reutilização de conteúdos
+* Registro do progresso e aprendizado
 
 ## Estrutura do Repositório
 
@@ -24,6 +24,7 @@ Centralizar e armazenar projetos de diferentes tipos, facilitando:
 
 Cada pasta pode conter:
 
-* Código-fonte
-* Documentação própria
-* Dependências e instruções específicas
+* Arquivos de documentação
+* Código-fonte relacionado
+* Instruções e observações do projeto
+* Materiais de estudo e referências
