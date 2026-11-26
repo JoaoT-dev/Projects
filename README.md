@@ -1,20 +1,22 @@
-# Repositório de Projetos
+# Catálogo de Projetos
 
-Este repositório reúne documentações, apresentações e materiais de apoio de projetos acadêmicos e experiências práticas nas áreas de redes, computação em nuvem, monitoramento, segurança cibernética e Internet das Coisas.
+Este repositório reúne documentações, apresentações e materiais de apoio de projetos acadêmicos nas áreas de redes, computação em nuvem, monitoramento, segurança cibernética e Internet das Coisas.
 
-## Navegação rápida
+## Catálogo
 
-- [Redes e infraestrutura](#redes-e-infraestrutura)
-- [Computação em nuvem](#computação-em-nuvem)
-- [Monitoramento](#monitoramento)
-- [Segurança cibernética](#segurança-cibernética)
-- [IoT e acessibilidade](#iot-e-acessibilidade)
+| Categoria | Projeto | Tipo | Status |
+| --- | --- | --- | --- |
+| Redes e infraestrutura | Hefestus | Documentação técnica | Concluído |
+| Redes e infraestrutura | Projeto Redes | Documentação acadêmica | Concluído |
+| Cloud Computing | Nuvem | Materiais de estudo | Concluído |
+| Cloud Computing | Projeto Multicloud AWS e Azure | Documentação acadêmica | Concluído |
+| Monitoramento | Grafana e Prometheus | Documentação técnica | Concluído |
+| Segurança cibernética | Materiais de estudo e prática | Documentação acadêmica | Concluído |
+| IoT e acessibilidade | SmartHome Sensations | Projeto multidisciplinar | Concluído |
 
 ## Redes e infraestrutura
 
 ### Hefestus
-
-Projeto de rede de dados com documentação técnica e apresentação.
 
 - [Apresentação Hefestus](Hefestus/ApresentaçãoHefestus.pdf)
 - [Documentação da rede de dados](Hefestus/HEFESTUS%20-%20REDE%20DE%20DADOS%20-%20DOCUMENTAÇÃO.pdf)
@@ -39,7 +41,7 @@ Documentos sobre arquitetura, serviços e infraestrutura em cloud computing, com
 
 Projeto acadêmico sobre integração e uso de serviços das plataformas AWS e Microsoft Azure.
 
-- [Documentação do projeto multicloud](Projeto%20Multicloud%20AWS%20%2B%20Azure/PROJETO%20MULTI%20CLOUD%20AZURE%20%26%20AWS.pdf)
+- [Documentação do projeto multicloud](Projeto%20Multicloud%20AWS%20+%20Azure/Projeto%20multicloud%20Azure%20&%20AWS.pdf)
 
 ## Monitoramento
 
@@ -66,7 +68,7 @@ Projeto multidisciplinar de IoT e acessibilidade, desenvolvido para explorar sol
 O trabalho utilizou ferramentas de Design Thinking para gerar empatia e compreender as necessidades dos usuários. O Trello foi usado para dividir problemas, requisitos funcionais e requisitos não funcionais entre a equipe. Ao final, foi construído um protótipo para testar as soluções propostas.
 
 - [Documentação do projeto](SmartHomeSensations/SmartHomeSensations.pdf)
-- [Material do Trello](SmartHomeSensations/SmartHomeSensationsTrello.png)
+- [Material do Trello](SmartHomeSensations/SmartHomeSensations%20Trello.png)
 - [Foto do projeto](SmartHomeSensations/SmartHomeFoto.pdf)
 
 ## Organização
